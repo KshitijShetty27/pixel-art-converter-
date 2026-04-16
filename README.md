@@ -75,8 +75,7 @@ PixelArtProject/
 ├── screenshots/
 │   ├── Screenshot 2026-04-16 170934.png   # Output window
 │   └── Screenshot 2026-04-16 170941.png   # Terminal run
-├── LAA Exp.pptx          # Project presentation
-└── LAA Exp.pdf           # Project presentation (PDF)
+└─ Pixel-Art-Converter.pptx                # Project presentation
 ```
 
 ---
