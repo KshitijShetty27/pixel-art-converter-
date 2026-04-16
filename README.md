@@ -85,8 +85,8 @@ PixelArtProject/
 
 ## Results & Observations
 
-- **Higher K** → more colors retained → finer detail
-- **Lower K** → fewer colors → stronger pixel-art effect
+- **Higher K** → more clusters → finer detail
+- **Lower K** → fewer clusters → lesser detail
 - Downsampling to 64×64 combined with color quantization produces the characteristic blocky, stylized look
 
 ---
