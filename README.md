@@ -22,7 +22,7 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Convert a high-resolution image into a pixel-art style image
 - Reduce image complexity by lowering resolution and the number of colors
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 Linear Algebra Concepts Used
+## Linear Algebra Concepts Used
 
 | Concept | How It's Applied |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 1. **Read image** → represented as an `(m × n × 3)` matrix
 2. **Downsample** → resize to `64×64` to reduce detail
@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 
@@ -77,7 +77,7 @@ Press any key to exit...
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 PixelArtProject/
@@ -94,7 +94,7 @@ PixelArtProject/
 
 ---
 
-## 📊 Results & Observations
+## Results & Observations
 
 - **Higher K** → more colors retained → finer detail
 - **Lower K** → fewer colors → stronger pixel-art effect
@@ -102,7 +102,7 @@ PixelArtProject/
 
 ---
 
-## 💡 Applications
+## Applications
 
 - Retro game design and graphics
 - Image compression
@@ -110,7 +110,7 @@ PixelArtProject/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **OpenCV** (`cv2`) — image I/O, resizing, display
