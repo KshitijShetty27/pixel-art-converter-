@@ -1,0 +1,69 @@
+# -----------------------------
+# Python cache files
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+env/
+ENV/
+.venv/
+
+# -----------------------------
+# Distribution / packaging
+# -----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -----------------------------
+# Logs & temp files
+# -----------------------------
+*.log
+*.tmp
+*.temp
+
+# -----------------------------
+# OS-generated files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# IDE / Editor files
+# -----------------------------
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Environment variables
+# -----------------------------
+.env
+
+# -----------------------------
+# Project-specific (important for YOU)
+# -----------------------------
+# Ignore generated pixel outputs
+output/
+outputs/
+
+# Ignore random test images (keep only screenshots folder)
+test_images/
+input_images/
+
+# BUT keep your demo screenshots
+!screenshots/
